@@ -3,35 +3,12 @@
     <title>Sampler.cz</title>
     <link href="https://sampler.cz/feed.xml" rel="self" />
     <link href="https://sampler.cz" />
-    <updated>2019-01-03T19:05:09+01:00</updated>
+    <updated>2019-01-03T19:06:49+01:00</updated>
     <author>
         <name>SedrickDeniken</name>
     </author>
     <id>https://sampler.cz</id>
 
-    <entry>
-        <title>Mission Bassline podcast se vrací do minulosti.</title>
-        <author>
-            <name>Redakce</name>
-        </author>
-        <link href="https://sampler.cz/mission-bassline-podcast-se-vraci-do-minulosti/"/>
-        <id>https://sampler.cz/mission-bassline-podcast-se-vraci-do-minulosti/</id>
-
-        <updated>2019-01-28T12:03:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sampler.cz/media/posts/5/mb444.jpg" alt="" />
-                    Nyní, v době yearmixů je těžké vybrat si ten nejlepší. SedrickDeniken se rozhodl pro letošek vynechat rekapitulaci předešlého roku a vrací se ještě hlouběji do minulosti. V nové epizodě podcastu Mission Bassline s názvem The Time Machine vzpomíná na dobu, kdy byl pro něho hlavním&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://sampler.cz/media/posts/5/mb444.jpg" alt="" />
-                <p><span style="font-weight: 400;">Nyní, v době yearmixů je těžké vybrat si ten nejlepší. <strong>SedrickDeniken</strong> se rozhodl pro letošek vynechat rekapitulaci předešlého roku a vrací se ještě hlouběji do minulosti. V nové epizodě podcastu <strong>Mission Bassline</strong> s názvem <em>The Time Machine</em> vzpomíná na dobu, kdy byl pro něho hlavním stylem Trance a vybral pro nás pár jeho srdcovek, jako například <em>Zocalo</em> od Armina, <em>La Guitarra</em> od Orjana Nilsena a mnoho dalších.</span></p>
-<p><iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;feed=%2Fsedrickdeniken%2Fmission-bassline-podcast-ep-7-the-time-machine%2F" frameborder="0"></iframe></p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>YLLOW představuje nový emotivní track.</title>
         <author>
@@ -54,6 +31,29 @@
 <br>
 <p><span style="font-weight: 400;">To se potvrzuje i nyní, kdy vydává novinku s názvem <em>With Me</em>, která je zase o level jinde. Emotivní a chytlavý track si navíc můžete zdarma stáhnout.</span></p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/QIq9MnvuLck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Mission Bassline podcast se vrací do minulosti.</title>
+        <author>
+            <name>Redakce</name>
+        </author>
+        <link href="https://sampler.cz/mission-bassline-podcast-se-vraci-do-minulosti/"/>
+        <id>https://sampler.cz/mission-bassline-podcast-se-vraci-do-minulosti/</id>
+
+        <updated>2019-01-03T19:06:29+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sampler.cz/media/posts/5/mb444.jpg" alt="" />
+                    Nyní, v době yearmixů je těžké vybrat si ten nejlepší. SedrickDeniken se rozhodl pro letošek vynechat rekapitulaci předešlého roku a vrací se ještě hlouběji do minulosti. V nové epizodě podcastu Mission Bassline s názvem The Time Machine vzpomíná na dobu, kdy byl pro něho hlavním&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sampler.cz/media/posts/5/mb444.jpg" alt="" />
+                <p><span style="font-weight: 400;">Nyní, v době yearmixů je těžké vybrat si ten nejlepší. <strong>SedrickDeniken</strong> se rozhodl pro letošek vynechat rekapitulaci předešlého roku a vrací se ještě hlouběji do minulosti. V nové epizodě podcastu <strong>Mission Bassline</strong> s názvem <em>The Time Machine</em> vzpomíná na dobu, kdy byl pro něho hlavním stylem Trance a vybral pro nás pár jeho srdcovek, jako například <em>Zocalo</em> od Armina, <em>La Guitarra</em> od Orjana Nilsena a mnoho dalších.</span></p>
+<p><iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;feed=%2Fsedrickdeniken%2Fmission-bassline-podcast-ep-7-the-time-machine%2F" frameborder="0"></iframe></p>
             ]]>
         </content>
     </entry>
