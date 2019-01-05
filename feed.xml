@@ -3,12 +3,40 @@
     <title>Sampler.cz</title>
     <link href="https://sampler.cz/feed.xml" rel="self" />
     <link href="https://sampler.cz" />
-    <updated>2019-01-04T12:49:19+01:00</updated>
+    <updated>2019-01-05T16:37:34+01:00</updated>
     <author>
         <name>SedrickDeniken</name>
     </author>
     <id>https://sampler.cz</id>
 
+    <entry>
+        <title>Dokument o Aviciim se vrací na Netflix.</title>
+        <author>
+            <name>Redakce</name>
+        </author>
+        <link href="https://sampler.cz/dokument-o-aviciim-se-vraci-na-netflix/"/>
+        <id>https://sampler.cz/dokument-o-aviciim-se-vraci-na-netflix/</id>
+            <category term="Novinky"/>
+
+        <updated>2019-01-05T16:37:18+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sampler.cz/media/posts/7/avicii-true-stories-netflix.jpg" alt="" />
+                    True Stories je název dokumentu, který sleduje život miláčka publika ze Švédska Tima Berglinga, známého pod pseudonymem Avicii. Tento dokument byl z Netflixu stažen poté, co byla oznámena tragická informace o Aviciiho smrti. Nyní se tento film z dílny filmmakera Levana Tsikurishvili vrací na Netflix,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sampler.cz/media/posts/7/avicii-true-stories-netflix.jpg" alt="" />
+                <p><span style="font-weight: 400;"><em>True Stories</em> je název dokumentu, který sleduje život miláčka publika ze Švédska Tima Berglinga, známého pod pseudonymem <strong>Avicii</strong>. Tento dokument byl z Netflixu stažen poté, co byla oznámena tragická informace o Aviciiho smrti. </span></p>
+<br>
+<p><span style="font-weight: 400;">Nyní se tento film z dílny filmmakera </span><span style="font-weight: 400;">Levana Tsikurishvili vrací na <strong>Netflix</strong>, aby odvyprávěl příběh o tom, jak se z Tima díky hitům <em>Level</em> nebo <em>Wake Me Up</em> stala hvězda, jak bojoval s psychickými i fyzickými problémy. Jak to řešil alkoholem a později se raději stáhl z DJské scény a věnoval se jenom produkci.</span></p>
+<p><span style="font-weight: 400;">Ani to však bohužel nestačilo k jeho dostatečné rekonvalescenci a 20. dubna loňského roku byl nalezen mrtvý v jeho hotelovém pokoji v Ománu. Dodnes se neví, zda to opravdu byla sebevražda, nebo zda za jeho náhlou smrtí stál zhoršující se zdravotní stav.</span></p>
+<p><span style="font-weight: 400;">Legenda a úžasný člověk je bohužel pryč. My se nyní můžeme podívat na chvilky z jeho života a více pochopit to, jak se cítil. Jeho bývalý spolupracovník Aloe Blacc navíc naznačil, že by  v budoucnu mohlo vyjít také posmrtné album.</span></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/1ZFK3VKzQIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>YLLOW představuje nový emotivní track.</title>
         <author>
@@ -16,8 +44,9 @@
         </author>
         <link href="https://sampler.cz/yllow-predstavuje-novy-emotivni-track/"/>
         <id>https://sampler.cz/yllow-predstavuje-novy-emotivni-track/</id>
+            <category term="Novinky"/>
 
-        <updated>2019-01-03T19:10:14+01:00</updated>
+        <updated>2019-01-05T16:37:07+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sampler.cz/media/posts/4/yllow.jpg" alt="" />
@@ -41,8 +70,9 @@
         </author>
         <link href="https://sampler.cz/mission-bassline-podcast-se-vraci-do-minulosti/"/>
         <id>https://sampler.cz/mission-bassline-podcast-se-vraci-do-minulosti/</id>
+            <category term="Novinky"/>
 
-        <updated>2019-01-03T19:10:21+01:00</updated>
+        <updated>2019-01-05T16:36:50+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sampler.cz/media/posts/5/mb444.jpg" alt="" />
@@ -64,8 +94,9 @@
         </author>
         <link href="https://sampler.cz/paul-van-dyk-se-v-roce-2019-vraci-na-ibizu/"/>
         <id>https://sampler.cz/paul-van-dyk-se-v-roce-2019-vraci-na-ibizu/</id>
+            <category term="Novinky"/>
 
-        <updated>2019-01-03T21:59:21+01:00</updated>
+        <updated>2019-01-05T16:36:40+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sampler.cz/media/posts/6/paul2.jpg" alt="" />

@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://sampler.cz/dokument-o-aviciim-se-vraci-na-netflix/",
+            "url": "https://sampler.cz/dokument-o-aviciim-se-vraci-na-netflix/",
+            "title": "Dokument o Aviciim se vrací na Netflix.",
+            "summary": "True Stories je název dokumentu, který sleduje život miláčka publika ze Švédska Tima Berglinga, známého pod pseudonymem Avicii. Tento dokument byl z Netflixu stažen poté, co byla oznámena tragická informace o Aviciiho smrti. Nyní se tento film z dílny filmmakera Levana Tsikurishvili vrací na Netflix,&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\"><em>True Stories</em> je název dokumentu, který sleduje život miláčka publika ze Švédska Tima Berglinga, známého pod pseudonymem <strong>Avicii</strong>. Tento dokument byl z Netflixu stažen poté, co byla oznámena tragická informace o Aviciiho smrti. </span></p>\n<br>\n<p><span style=\"font-weight: 400;\">Nyní se tento film z dílny filmmakera </span><span style=\"font-weight: 400;\">Levana Tsikurishvili vrací na <strong>Netflix</strong>, aby odvyprávěl příběh o tom, jak se z Tima díky hitům <em>Level</em> nebo <em>Wake Me Up</em> stala hvězda, jak bojoval s psychickými i fyzickými problémy. Jak to řešil alkoholem a později se raději stáhl z DJské scény a věnoval se jenom produkci.</span></p>\n<p><span style=\"font-weight: 400;\">Ani to však bohužel nestačilo k jeho dostatečné rekonvalescenci a 20. dubna loňského roku byl nalezen mrtvý v jeho hotelovém pokoji v Ománu. Dodnes se neví, zda to opravdu byla sebevražda, nebo zda za jeho náhlou smrtí stál zhoršující se zdravotní stav.</span></p>\n<p><span style=\"font-weight: 400;\">Legenda a úžasný člověk je bohužel pryč. My se nyní můžeme podívat na chvilky z jeho života a více pochopit to, jak se cítil. Jeho bývalý spolupracovník Aloe Blacc navíc naznačil, že by  v budoucnu mohlo vyjít také posmrtné album.</span></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1ZFK3VKzQIs\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+            "image": "https://sampler.cz/media/posts/7/avicii-true-stories-netflix.jpg",
+            "author": {
+                "name": "Redakce"
+            },
+            "tags": [
+                   "Novinky"
+            ],
+            "date_published": "2019-01-05T16:35:51+01:00",
+            "date_modified": "2019-01-05T16:37:18+01:00"
+        },
+        {
             "id": "https://sampler.cz/yllow-predstavuje-novy-emotivni-track/",
             "url": "https://sampler.cz/yllow-predstavuje-novy-emotivni-track/",
             "title": "YLLOW představuje nový emotivní track.",
@@ -21,9 +37,10 @@
                 "name": "SedrickDeniken"
             },
             "tags": [
+                   "Novinky"
             ],
             "date_published": "2019-01-03T17:10:56+01:00",
-            "date_modified": "2019-01-03T19:10:14+01:00"
+            "date_modified": "2019-01-05T16:37:07+01:00"
         },
         {
             "id": "https://sampler.cz/mission-bassline-podcast-se-vraci-do-minulosti/",
@@ -36,9 +53,10 @@
                 "name": "Redakce"
             },
             "tags": [
+                   "Novinky"
             ],
             "date_published": "2019-01-02T12:03:00+01:00",
-            "date_modified": "2019-01-03T19:10:21+01:00"
+            "date_modified": "2019-01-05T16:36:50+01:00"
         },
         {
             "id": "https://sampler.cz/paul-van-dyk-se-v-roce-2019-vraci-na-ibizu/",
@@ -51,9 +69,10 @@
                 "name": "Redakce"
             },
             "tags": [
+                   "Novinky"
             ],
             "date_published": "2019-01-01T21:58:00+01:00",
-            "date_modified": "2019-01-03T21:59:21+01:00"
+            "date_modified": "2019-01-05T16:36:40+01:00"
         },
         {
             "id": "https://sampler.cz/manene-a-jeho-noc-miri-do-gimletu/",
