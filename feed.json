@@ -91,6 +91,21 @@
             "date_modified": "2019-01-05T16:36:40+01:00"
         },
         {
+            "id": "https://sampler.cz/o-nas/",
+            "url": "https://sampler.cz/o-nas/",
+            "title": "O nás",
+            "summary": "Jsme parta přátel, která miluje všechny odnože elektronické hudby. Vracíme se tam, kde jsme před lety skončili a snažíme se obnovit jméno Sampler.cz v plném rozsahu. S námi jste hudbě zase o kousek blíž! Kontakt info@sampler.cz",
+            "content_html": "<p>Jsme parta přátel, která miluje všechny odnože elektronické hudby. Vracíme se tam, kde jsme před lety skončili a snažíme se obnovit jméno Sampler.cz v plném rozsahu.</p>\n<p><em>S námi jste hudbě zase o kousek blíž!</em></p>\n<p><strong>Kontakt</strong><br>info@sampler.cz</p>",
+            "image": "https://sampler.cz/media/posts/2/sampler.jpg",
+            "author": {
+                "name": "Redakce"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-12-29T20:32:06+01:00",
+            "date_modified": "2019-01-05T21:21:42+01:00"
+        },
+        {
             "id": "https://sampler.cz/rozhovor-s-organizatorem-eventu-drumcity/",
             "url": "https://sampler.cz/rozhovor-s-organizatorem-eventu-drumcity/",
             "title": "Rozhovor s organizátorem eventu DrumCity.",

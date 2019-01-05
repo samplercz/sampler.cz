@@ -3,7 +3,7 @@
     <title>Sampler.cz</title>
     <link href="https://sampler.cz/feed.xml" rel="self" />
     <link href="https://sampler.cz" />
-    <updated>2019-01-05T18:52:36+01:00</updated>
+    <updated>2019-01-05T21:21:54+01:00</updated>
     <author>
         <name>SedrickDeniken</name>
     </author>
@@ -137,6 +137,30 @@
 <br>
 <p><span style="font-weight: 400;">Paul si první ročník velmi pochvaloval a věří, že i letos přinese svěží tranceový vítr do plachet legendárního párty ostrova. Na podzim vydal své další album s názvem <em>Music Rescues Me</em>, takže bude mít rozhodně co prezentovat.</span></p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/4HepGqkSVnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>O nás</title>
+        <author>
+            <name>Redakce</name>
+        </author>
+        <link href="https://sampler.cz/o-nas/"/>
+        <id>https://sampler.cz/o-nas/</id>
+
+        <updated>2019-01-05T21:21:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sampler.cz/media/posts/2/sampler.jpg" alt="" />
+                    Jsme parta přátel, která miluje všechny odnože elektronické hudby. Vracíme se tam, kde jsme před lety skončili a snažíme se obnovit jméno Sampler.cz v plném rozsahu. S námi jste hudbě zase o kousek blíž! Kontakt info@sampler.cz
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sampler.cz/media/posts/2/sampler.jpg" alt="" />
+                <p>Jsme parta přátel, která miluje všechny odnože elektronické hudby. Vracíme se tam, kde jsme před lety skončili a snažíme se obnovit jméno Sampler.cz v plném rozsahu.</p>
+<p><em>S námi jste hudbě zase o kousek blíž!</em></p>
+<p><strong>Kontakt</strong><br>info@sampler.cz</p>
             ]]>
         </content>
     </entry>
