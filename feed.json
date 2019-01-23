@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://sampler.cz/don-diablo-predelal-dalsi-legendarni-song/",
+            "url": "https://sampler.cz/don-diablo-predelal-dalsi-legendarni-song/",
+            "title": "Don Diablo předělal další legendární song.",
+            "summary": "Hexagon. Slovo, po jehož vyslovení většině lidí v hlavě naskočí kvalitní future house. Jste fanoušky hudby devadesátých let, ale zároveň se vám líbí současná tvorba? Potom je tohle přesně pro vás. Nejznámější současný DJ a producent future house muziky, Don Diablo, přezdívaný také jako “Mr.",
+            "content_html": "<p><span style=\"font-weight: 400;\"><strong>Hexagon</strong>. Slovo, po jehož vyslovení většině lidí v hlavě naskočí kvalitní future house. Jste fanoušky hudby devadesátých let, ale zároveň se vám líbí současná tvorba? Potom je tohle přesně pro vás.</span></p>\n<p><span style=\"font-weight: 400;\">Nejznámější současný DJ a producent future house muziky, <strong>Don Diablo</strong>, přezdívaný také jako “<em>Mr. Future House</em>”, zveřejnil na svém profilu nový track. Je to edit na celosvětově populární track z roku 1997 s názvem “<em>Wamdue Project - King Of My Castle</em>”. Don Diablo ale není sám, kdo se na tomto chytlavém tracku podílel.</span></p>\n<p><span style=\"font-weight: 400;\">Společně s ním na tomto tracku pracoval německý DJ a producent <strong>Keanu Silva</strong>, který se proslavil především díky labelu <strong>Mixmash</strong>, jehož zakladatelem je sám král DJingu <strong>Laidback Luke</strong> a s tím později také vydal track s názvem “<em>It Was Me</em>”.  V posledních několika měsících ho můžete zahlédnout na labelu Hexagon, pod kterým je momentálně podepsaný.</span></p>\n<p> V tomto tracku byly zachovány důležité prvky z původní verze Pouze dostal lehký nádech future housu, který tomu očividně velmi svědčí. Přesvědčte se sami!</p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2XJC9wntaXU\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+            "image": "https://sampler.cz/media/posts/25/don-diablo.jpg",
+            "author": {
+                "name": "Bocianjr"
+            },
+            "tags": [
+                   "Novinky"
+            ],
+            "date_published": "2019-01-23T20:19:38+01:00",
+            "date_modified": "2019-01-23T20:19:38+01:00"
+        },
+        {
             "id": "https://sampler.cz/brooks-ukazuje-sve-dovednosti-v-hodinove-vyzve/",
             "url": "https://sampler.cz/brooks-ukazuje-sve-dovednosti-v-hodinove-vyzve/",
             "title": "Brooks ukazuje své dovednosti v hodinové výzvě.",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2019-01-16T16:13:47+01:00",
             "date_modified": "2019-01-16T16:13:47+01:00"
-        },
-        {
-            "id": "https://sampler.cz/steff-da-campo-dalsim-umelcem-na-magnetic-festivalu/",
-            "url": "https://sampler.cz/steff-da-campo-dalsim-umelcem-na-magnetic-festivalu/",
-            "title": "Steff da Campo dalším umělcem na Magnetic festivalu.",
-            "summary": "Složitá skládačka z mnoha dílků, která musí naprosto přesně pasovat, i tak se dá popsat utváření lineupu na každou pořádnou akci. Touto akcí Magnetic festival určitě je a na květen opět připravuje silný lineup, kterým chce již po několikáté pohltit 10 000 návštěvníků pražské PVA&hellip;",
-            "content_html": "<p><span style=\"font-weight: 400;\">Složitá skládačka z mnoha dílků, která musí naprosto přesně pasovat, i tak se dá popsat utváření lineupu na každou pořádnou akci.</span></p>\n<br>\n<p><span style=\"font-weight: 400;\">Touto akcí <strong>Magnetic</strong> festival určitě je a na květen opět připravuje silný lineup, kterým chce již po několikáté pohltit 10 000 návštěvníků pražské PVA EXPO Arény. </span><span style=\"font-weight: 400;\">Už v prosinci jsme se dočkali oznámení headlinera. Tím bude izraelská dvojice <strong>VINI VICI</strong>. Dalším umělcem je metalista mezi producenty taneční hudby, <strong>Will Sparks</strong>.</span></p>\n<br>\n<p><span style=\"font-weight: 400;\">Zatím posledním oznámeným je člen Hexagonu, <strong>Steff da Campo</strong>, který se loni představil na Air festivalu v Hradci Králové. Myslím, že se nám to rozjíždí slibně, tak uvidíme s čím dále organizátoři přijdou.</span></p>\n<p><img class=\"post__image\" src=\"https://sampler.cz/media/posts/15/steff.jpg\" alt=\"\" width=\"960\" height=\"960\"></p>",
-            "image": "https://sampler.cz/media/posts/15/magnetic2.jpg",
-            "author": {
-                "name": "Javor"
-            },
-            "tags": [
-                   "Novinky"
-            ],
-            "date_published": "2019-01-15T16:37:15+01:00",
-            "date_modified": "2019-01-15T16:37:15+01:00"
         }
     ]
 }
