@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://sampler.cz/legendarni-groove-coverage-v-ceskem-podcastu/",
+            "url": "https://sampler.cz/legendarni-groove-coverage-v-ceskem-podcastu/",
+            "title": "Legendární Groove Coverage v českém podcastu.",
+            "summary": "Pamatujete si na tu dobu, kdy na diskotékách zněl handsup z každého koutu? Právě tenkrát vládl parketu projekt Groove Coverage. DJ Novus a vokalistka Mell dokázali roztancovat nejeden klub a jejich tracky se sunuly do popředí každé hitparády. Ta doba je možná pryč, ale právě&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">Pamatujete si na tu dobu, kdy na diskotékách zněl handsup z každého koutu? Právě tenkrát vládl parketu projekt <strong>Groove Coverage</strong>. <em>DJ Novus</em> a vokalistka <em>Mell</em> dokázali roztancovat nejeden klub a jejich tracky se sunuly do popředí každé hitparády.</span></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7uEwCZrIOBk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><span style=\"font-weight: 400;\">Ta doba je možná pryč, ale právě teď je v módě se k těmto časům vracet, a proto vzniká spousta retro parties, které se vyprodávají téměř pravidelně. Nejen díky tomu jsou <strong>Groove Coverage</strong> stále aktivní a oblíbení.</span></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ucs1af3Ntf8\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><span style=\"font-weight: 400;\">Proto vznikl také nápad na retro díl podcastu s názvem <strong>Mission Bassline</strong>, který má na starosti<strong> SedrickDeniken</strong>. DJ Novus aka Groove Coverage přijal pozvání do sedmé epizody a namíchal pro nás hodinový set. Pokud však čekáte hodinu retro songů, pak jste na omylu. <strong>DJ Novus</strong> připravil výběr z mnohem novějších songů a především i z různých žánrů. </span></p>\n<p><span style=\"font-weight: 400;\">Tento díl rozhodně stojí za to, tak příjemný poslech.</span></p>\n<p><iframe width=\"100%\" height=\"120\" src=\"https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;feed=%2Fsedrickdeniken%2Fmission-bassline-podcast-ep-8-guestmix-by-dj-novus-aka-groove-coverage%2F\" frameborder=\"0\"></iframe></p>",
+            "image": "https://sampler.cz/media/posts/28/DJ-Novus.jpg",
+            "author": {
+                "name": "Redakce"
+            },
+            "tags": [
+                   "Novinky"
+            ],
+            "date_published": "2019-01-26T15:56:49+01:00",
+            "date_modified": "2019-01-26T15:56:49+01:00"
+        },
+        {
             "id": "https://sampler.cz/balaton-sound-oznamil-druhou-vlnu-jmen/",
             "url": "https://sampler.cz/balaton-sound-oznamil-druhou-vlnu-jmen/",
             "title": "Balaton Sound oznámil druhou vlnu jmen.",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2019-01-17T22:29:09+01:00",
             "date_modified": "2019-01-17T22:29:09+01:00"
-        },
-        {
-            "id": "https://sampler.cz/ferry-corsten-napsal-hudbu-k-filmu/",
-            "url": "https://sampler.cz/ferry-corsten-napsal-hudbu-k-filmu/",
-            "title": "Ferry Corsten napsal hudbu k filmu.",
-            "summary": "Ferry Corsten přechází k vyprávění svých emocí skrz filmovou hudbu. Jeho tvorba měla vždy blízko k podobnému stylu. Můžeme vzpomenout například na jeho album Blueprint z roku 2017, které působí opravdu uceleně, podobně jako soundtrack. Tentokrát spojil síly s režisérem Davidem Gleesonem, pro kterého vytvořil&hellip;",
-            "content_html": "<p><span style=\"font-weight: 400;\"><strong>Ferry Corsten</strong> přechází k vyprávění svých emocí skrz filmovou hudbu. Jeho tvorba měla vždy blízko k podobnému stylu. Můžeme vzpomenout například na jeho album <strong>Blueprin</strong>t z roku 2017, které působí opravdu uceleně, podobně jako soundtrack.</span></p>\n<p><span style=\"font-weight: 400;\">Tentokrát spojil síly s režisérem Davidem Gleesonem, pro kterého vytvořil soundtrack k filmu <strong>Don’t Go</strong> a nebyl by to Ferry, abychom se nedočkali hudby plné emocí.</span></p>\n<p><i><span style=\"font-weight: 400;\">„Vždy mě zajímaly zvukové scény a použití hudby na vyvolání emocionálních reakcí, takže práce s filmem byla dlouho oblast, kterou jsem chtěl prozkoumat. Jsem vděčný, že jsem mohl spolupracovat s Davidem na mém prvním soundtracku. Je to něco, na čem bych rád pracoval i v budoucnosti,“ </span></i><span style=\"font-weight: 400;\">říká samotný Ferry.</span></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BcJUUnFz-Qk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><span style=\"font-weight: 400;\">Zdroj: Urban Label PR</span></p>",
-            "image": "https://sampler.cz/media/posts/18/ferry-corsten.jpg",
-            "author": {
-                "name": "Redakce"
-            },
-            "tags": [
-                   "Novinky"
-            ],
-            "date_published": "2019-01-17T20:19:05+01:00",
-            "date_modified": "2019-01-17T20:19:05+01:00"
         }
     ]
 }
