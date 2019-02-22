@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://sampler.cz/psyko-punkz-radi-v-novince-victorious/",
+            "url": "https://sampler.cz/psyko-punkz-radi-v-novince-victorious/",
+            "title": "Psyko Punkz řádí v novince Victorious.",
+            "summary": "Duo Psyko Punkz bylo legendární. Jejich Disrespect, Trippy Hippie nebo třeba The Words jsou opravdovými klenoty na hardstyle scéně. Poté, co Sven z týmu odešel a dal se na solo dráhu pod jménem KELTEK, se musel Wietse poprat s tímto projektem sám. Vydal dokonce album,&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">Duo <strong>Psyko Punkz</strong> bylo legendární. Jejich <em>Disrespect, </em></span><span style=\"font-weight: 400;\"><em>Trippy Hippie</em> nebo třeba <em>The Words</em> jsou opravdovými klenoty na hardstyle scéně.</span></p>\n<p><span style=\"font-weight: 400;\">Poté, co <strong>Sven</strong> z týmu odešel a dal se na solo dráhu pod jménem <strong>KELTEK</strong>, se musel <strong>Wietse</strong> poprat s tímto projektem sám. Vydal dokonce album, které nese jeho jméno. Pořád to ale nebyl ten starý dobrý Mr. Psyko. Alespoň podle některých fanoušků.</span></p>\n<p><span style=\"font-weight: 400;\">Nyní však umlčel i nejzarytější hejtery, protože přišel s novinkou, která nese ten správný psyko style! Někteří dokonce tvrdí, že je to nejlepší track od vydání <em>Spaceship</em>. </span></p>\n<p><span style=\"font-weight: 400;\">Track s názvem <em>Victorious</em>, je skvělá kombinace starého stylu a nové koncepce, kterou se v projektu snaží Wietse prosadit. Emotivní sound, díky skvělému vokálu, je doplněn luxusním reverbassem. Sice je z tracku lehce slyšet inspirace z Frontlinera, ale i tak mám z něho husí kůži.</span></p>\n<p><span style=\"font-weight: 400;\">Neoriginální klip je opět sestříhám z vystoupení, což je v dnešní době celkem nuda, ale nadšení ze songu mi to přesto nevezme. Good job, Wietse!</span></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/D2e64eGDsgw\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+            "image": "https://sampler.cz/media/posts/47/psyko.jpg",
+            "author": {
+                "name": "Sedrick"
+            },
+            "tags": [
+                   "Novinky"
+            ],
+            "date_published": "2019-02-22T17:31:29+01:00",
+            "date_modified": "2019-02-22T17:31:29+01:00"
+        },
+        {
             "id": "https://sampler.cz/paul-kalkbrenner-v-brne/",
             "url": "https://sampler.cz/paul-kalkbrenner-v-brne/",
             "title": "Paul Kalkbrenner v Brně!",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2019-02-11T19:23:41+01:00",
             "date_modified": "2019-02-17T21:33:54+01:00"
-        },
-        {
-            "id": "https://sampler.cz/noisecontrollers-zremixoval-scootery/",
-            "url": "https://sampler.cz/noisecontrollers-zremixoval-scootery/",
-            "title": "Noisecontrollers zremixoval Scootery.",
-            "summary": "Legendární německá skupina Scooter, která má na svém kontě již tolik singlů, že by to bohatě stačilo na tři hudební kariéry, se rozhodla nechat zremixovat svůj v pořadí druhý singl Move your Ass a to přesně po 24 letech od jeho vydání. Na rozdíl od&hellip;",
-            "content_html": "<p><span style=\"font-weight: 400;\">Legendární německá skupina <strong>Scooter</strong>, která má na svém kontě již tolik singlů, že by to bohatě stačilo na tři hudební kariéry, se rozhodla nechat zremixovat svůj v pořadí druhý singl <strong>Move your Ass</strong> a to přesně po 24 letech od jeho vydání.</span></p>\n<p><span style=\"font-weight: 400;\"> Na rozdíl od neslavně přijatého projektu „<em>hands on Scooter</em>“, kdy mnoho různých interpretů předělalo jejich nejslavnější skladby, vybrala tentokrát německá parta výborně. Bas Oskam alias <strong>Noisecontrollers</strong> (původně se jednalo o DJskou dvojici), který patří mezi nejpopulárnější hardstylové interprety vůbec, skvěle oživil tuto dnes již legendární devadesátkovou pecku moderním zvukem a dvěma typy hardstylových „kicků“, což je současný trend v tomto žánru. <br></span></p>\n<p><span style=\"font-weight: 400;\">Tím se také skladba posunula z žánru Happy Hardcore do Hardstylu. Nelze než popřát, aby i v budoucnosti vybírala hamburská parta pro své remixy stejně skvělé interprety.</span></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/QU2KuyP6H-E\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
-            "image": "https://sampler.cz/media/posts/37/scooter2.jpg",
-            "author": {
-                "name": "Qaty"
-            },
-            "tags": [
-                   "Novinky"
-            ],
-            "date_published": "2019-02-10T21:36:27+01:00",
-            "date_modified": "2019-02-10T21:36:27+01:00"
         }
     ]
 }
